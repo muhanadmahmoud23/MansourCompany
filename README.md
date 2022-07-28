@@ -38,6 +38,7 @@ This Seeder assume we have 2 of entries for each table
 to add,edit,delete any entries of 
 (SALES , SALES MAN , BRANCH, REGION , COMPANY , CATEGORY , TERMINAL , SALES TER ,POSITION , SALES REP , ROUTES , FAMILY, PRODUCT)
 please follow the following link:
+
 localhost:8000
 ______________________________________________________________________________________________
 
