@@ -5,23 +5,23 @@ But i would be greatfull to know more about your system in the future.
 ___________________________________________________________________________________________
 Assume we have :
 
-# branches table => branch_code , region
-# company table  => id , name , seq
-# categpry  => id , desc
-# TER => id , name
-# sales_ter => id , name 
-# pos => id , code , name
-# sales_rep => id , name
-# route => id , type
-# family => id,seq
-# product=> id , family , seq , name
+- branches table => branch_code , region
+- company table  => id , name , seq
+- category  => id , desc
+- TER => id , name
+- sales_ter => id , name 
+- pos => id , code , name
+- sales_rep => id , name
+- route => id , type
+- family => id,seq
+- product=> id , family , seq , name
 ____________________________________________________________________________________________
 
 Assume:
 
-# Jou_id is random number,
-# Temp = 0,
-# Call_status_id = s
+- Jou_id is random number,
+- Temp = 0,
+- Call_status_id = s
 _____________________________________________________________________________________________
 
 Please follow the following commands to start the project
